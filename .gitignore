@@ -1,0 +1,8 @@
+# IDEA
+/.idea
+
+# Go
+go.sum
+
+# Metadata
+/**/metadata.yml
